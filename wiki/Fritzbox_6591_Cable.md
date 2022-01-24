@@ -2,13 +2,13 @@
 
 The Fritz!Box (stylized as FRITZ!Box) is a router hardware product line by the German company AVM GmbH. The Fritzbox is available for many different types of internet connections, such as cable internet, (V/A)DSL, LTE and others.
 
-The Fritz!Box 6591 Cable provides cable internet using the Euro-Docsis standards 1.0, 1.1, 2.0 and 3.0.
+The Fritz!Box 6591 Cable provides cable internet using the Euro-Docsis standards 1.0, 1.1, 2.0, 3.0 as well as Docsis 3.1
 
 ## Specs
 
-* Euro-Docsis 3.0/3.1
-* Euro-Docsis 3.0 channels: Up to 32 RX / up to 8 TX
-* Euro-Docsis 3.0 channels: Up to 2 RX / up to 2 TX
+* Euro-Docsis 3.0 / Docsis 3.1
+* Euro-Docsis 3.0 channels: Up to 32 DS / up to 8 US  (32x8)
+* Docsis 3.1 channels: Up to 2 OFDM DS / up to 2 OFDMA US (2x2)
 * 4x 10/100/1000 Ethernet
 * IEEE 802.11a/b/g/n WIFI(up to 800 MBit/s, 2.4 GHz)
 * IEEE 802.11ac WIFI(up to 1,733 MBit/s, 5GHz)
