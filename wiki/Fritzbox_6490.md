@@ -7,7 +7,7 @@ The Fritz!Box 6490 Cable provides cable internet using the Euro-Docsis standards
 ## Specs
 
 * Euro-Docsis 1.0/1.1/2.0/3.0
-* 16x4 bonded channels
+* 24x8 bonded channels (with TV Streaming 20x8)
 * 4x 10/100/1000 Ethernet
 * B/G/A/N WIFI (up to 450MBit/s, 2.4GHz)
 * AC WIFI (up to 1,300MBit/s, 5GHz)
